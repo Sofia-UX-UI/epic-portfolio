@@ -57,7 +57,6 @@ const home = {
     <>
       I'm Sofía, a Product Designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading generative AI<br/> digital solutions.</>
 
-    </>
   ),
 };
 
