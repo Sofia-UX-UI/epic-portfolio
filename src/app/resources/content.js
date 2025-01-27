@@ -8,8 +8,8 @@ const person = {
   },
   role: "Product Designer (UI/X)",
   avatar: "/images/avatar.jpg",
-  location: "Asia/Jakarta", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Bahasa"], // optional: Leave the array empty if you don't want to display languages
+  location: "Europe/London", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
+  languages: ["English", "Spanish"], // optional: Leave the array empty if you don't want to display languages
 };
 
 const newsletter = {
@@ -18,7 +18,7 @@ const newsletter = {
   description: (
     <>
       I occasionally write about design, technology, and share thoughts on the intersection of
-      creativity and engineering.
+      design handoff and user experience.
     </>
   ),
 };
@@ -29,12 +29,12 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/once-ui-system/nextjs-starter",
+    link: "https://github.com/Sofia-UX-UI",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/company/once-ui/",
+    link: "https://www.linkedin.com/in/sofiaorellano/",
   },
   {
     name: "X",
@@ -44,7 +44,7 @@ const social = [
   {
     name: "Email",
     icon: "email",
-    link: "mailto:example@gmail.com",
+    link: "mailto:sofia.orellano@gmail.com",
   },
 ];
 
@@ -52,11 +52,11 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Design engineer and builder</>,
+  headline: <>Product Designer (UX/UI)</>,
   subline: (
     <>
-      I'm Selene, a design engineer at <InlineCode>FLY</InlineCode>, where I craft intuitive
-      <br /> user experiences. After hours, I build my own projects.
+      I'm Sofía, a Product Designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading generative AI<br/> digital solutions.</>
+
     </>
   ),
 };
@@ -74,16 +74,14 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://cal.com",
+    link: "https://calendly.com/sofia-orellano-/1-1-sofia-orellano",
   },
   intro: {
     display: true,
     title: "Introduction",
     description: (
       <>
-        Selene is a Jakarta-based design engineer with a passion for transforming complex challenges
-        into simple, elegant design solutions. Her work spans digital interfaces, interactive
-        experiences, and the convergence of design and technology.
+        I'm a curious Product Designer with 10+ years of experience focused on creating intuitive, user-centered solutions for mobile and web platforms. My work revolves around understanding users, analyzing both qualitative and quantitative data, and translating these insights into actionable recommendations that drive design improvements, delivering end-to-end end-to-end product experiences. Whether it's improving user engagement, refining product roadmaps, creating a design system from the scratch or introducing innovative solutions, I always strive to align user needs with business objectives.
       </>
     ),
   },
@@ -92,23 +90,21 @@ const about = {
     title: "Work Experience",
     experiences: [
       {
-        company: "FLY",
-        timeframe: "2022 - Present",
-        role: "Senior Design Engineer",
+        company: "OICD",
+        timeframe: "2023 - Present",
+        role: "Product Designer",
         achievements: [
           <>
-            Redesigned the UI/UX for the FLY platform, resulting in a 20% increase in user
-            engagement and 30% faster load times.
+            Redesigned the UI/UX for the OICD platform, resulting in a 20% increase in user engagement and 30% faster load times.
           </>,
           <>
-            Spearheaded the integration of AI tools into design workflows, enabling designers to
-            iterate 50% faster.
+            Led discovery research, prototyping, and user testing for a new Pro Identity Mapping Tool, aligning user needs with business objectives. Contributed to client segmentation which aims to further develop into pricing options through iterative testing, ensuring the tool addressed diverse user requirements and market demands. The tool integrated conflict resolution techniques with Generative AI text processing for sensitive information and was optimized for seamless functionality across three device types.
           </>,
         ],
         images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: "/images/projects/project-01/cover-01.jpg",
+            src: "/images/projects/project-01/Fondo-prueba-20.svg",
             alt: "Once UI Project",
             width: 16,
             height: 9,
