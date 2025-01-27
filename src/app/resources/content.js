@@ -111,9 +111,9 @@ const about = {
         ],
       },
       {
-        company: "Creativ3",
-        timeframe: "2018 - 2022",
-        role: "Lead Designer",
+        company: "www.urbanmento.com",
+        timeframe: "2019 - 2023",
+        role: "Founder & Lead Designer of Kompan Uruguay",
         achievements: [
           <>
             Developed a design system that unified the brand across multiple platforms, improving
@@ -133,12 +133,20 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "University of Jakarta",
-        description: <>Studied software engineering.</>,
+        name: "Falmouth University - Master in User Experience Design (2023-2025)",
+        description: <>Studied User Experience Design with a major project focused on exploring Design Frameworks for Generative AI.</>,
       },
       {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
+        name: "Encode Club - Generative AI Bootcamp (2024)",
+        description: <>Recently completed the Generative AI bootcamp, where I gained hands-on experience in leveraging AI technologies to enhance user experiences. The program covered machine learning, neural networks, and AI-driven tools, with a focus on creating innovative solutions that bridge the gap between design and AI.</>,
+      },
+      {
+        name: "Ironhack Academy - UX/UI Bootcamp (2021)",
+        description: <>Completed an intensive UX/UI bootcamp that focused on both the theoretical and practical aspects of designing for digital platforms. The program covered user research, wireframing, prototyping, and user testing, while also diving deep into creating visually compelling and intuitive user interfaces for mobile and web platforms.</>,
+      },
+      {
+        name: "Universidad de la Empresa - BA in Industrial Design",
+        description: <>Earned a Bachelor's degree in Industrial Design, where I developed a strong foundation in design principles, problem-solving, and prototyping. The program emphasized user-centric design in physical products, providing valuable insights that I now apply to digital product design.</>,
       },
     ],
   },
@@ -148,17 +156,17 @@ const about = {
     skills: [
       {
         title: "Figma",
-        description: <>Able to prototype in Figma with Once UI with unnatural speed.</>,
+        description: <>Highly proficient in Figma, able to create interactive prototypes and design systems with exceptional speed and precision. Extensive experience in collaborative design, version control, and building responsive layouts for both web and mobile platforms.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/cover-02.jpg",
+            src: "/images/projects/project-01/Image-2.svg",
             alt: "Project image",
             width: 16,
             height: 9,
           },
           {
-            src: "/images/projects/project-01/cover-03.jpg",
+            src: "/images/projects/project-01/Image-3.svg",
             alt: "Project image",
             width: 16,
             height: 9,
@@ -167,11 +175,11 @@ const about = {
       },
       {
         title: "Next.js",
-        description: <>Building next gen apps with Next.js + Once UI + Supabase.</>,
+        description: <>Building next gen apps with Next.js.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/cover-04.jpg",
+            src: "/images/projects/project-01/Image-4.svg",
             alt: "Project image",
             width: 16,
             height: 9,
