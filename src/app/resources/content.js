@@ -103,7 +103,7 @@ const about = {
         images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: "/images/projects/project-01/Fondo-prueba-20.svg",
+            src: "/images/projects/project-01/Image-1-OICD.svg",
             alt: "Once UI Project",
             width: 16,
             height: 9,
