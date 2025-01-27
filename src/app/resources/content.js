@@ -126,6 +126,20 @@ const about = {
         ],
         images: [],
       },
+      {
+        company: "Astropay",
+        timeframe: "2022",
+        role: "Product Designer",
+        achievements: [
+          <>
+            Product Designer with a focus on Growth, I collaborated with Astropay's Purchase Squad to redesign the 'Add Money' flow.
+          </>,
+          <>
+            This initiative aimed to eliminate user pain points, improve task efficiency, and deliver an inclusive solution for diverse users across Europe, Africa, and Latin America.
+          </>,
+        ],
+        images: [],
+      },
     ],
   },
   studies: {
