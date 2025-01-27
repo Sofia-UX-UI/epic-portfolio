@@ -55,7 +55,7 @@ const home = {
   headline: <>Product Designer (UX/UI)</>,
   subline: (
     <>
-      I'm Sofía, a Product Designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading generative AI<br/> digital solutions.</>
+      I'm Sofía, a Product Designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading <br/> digital solutions.</>
 
   ),
 };
@@ -80,7 +80,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm a curious Product Designer with 10+ years of experience focused on creating intuitive, user-centered solutions for mobile and web platforms. My work revolves around understanding users, analyzing both qualitative and quantitative data, and translating these insights into actionable recommendations that drive design improvements, delivering end-to-end end-to-end product experiences. Whether it's improving user engagement, refining product roadmaps, creating a design system from the scratch or introducing innovative solutions, I always strive to align user needs with business objectives.
+        I'm a curious Product Designer with 10+ years of experience focused on creating intuitive, user-centered solutions, transitioning from industrial to UX/UI product design, specializing in mobile and web platforms. My work revolves around understanding users, analyzing both qualitative and quantitative data, and translating these insights into actionable recommendations that drive design improvements, delivering end-to-end end-to-end product experiences. Whether it's improving user engagement, refining product roadmaps, creating a design system from the scratch or introducing innovative solutions, I always strive to align user needs with business objectives.
       </>
     ),
   },
