@@ -221,57 +221,74 @@ const work = {
 };
 
 const gallery = {
-  label: "Gallery",
-  title: "My photo gallery gallery",
-  description: `A wireframes collection selected by ${person.name}`,
-  // Images from https://unsplash.com/photos/assorted-color-abstract-painting-tZc3vjPCk-Q https://unsplash.com/photos/person-writing-on-printing-paper-wusOJ-2uY6w https://unsplash.com/photos/white-paper-_zKxPsGOGKg https://unsplash.com/photos/silver-macbook-air-on-table-near-imac-jJT2r2n7lYA https://unsplash.com/photos/person-writing-on-white-paper-MKDEMlPRoYU https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4 https://unsplash.com/photos/person-using-black-smartphone-with-pink-case--zFcop_22Xo https://unsplash.com/photos/person-holding-pen-near-paper-sv8oOQaUb-o
+  label: 'Portfolio Gallery',
+  title: 'Portfolio gallery',
+  description: `A selection of wireframes by ${person.name}`,
+  // Images from https://pexels.com
   images: [
-    {
-      src: "/images/projects/project-01/Image-15.jpg",
-      alt: "image",
-      orientation: "horizontal", 
-    },
-    {
-      src: "/images/projects/project-01/Image-16.jpg",
-      alt: "image",
-      orientation: "horizontal", 
-    },
-    {
-      src: "/images/projects/project-01/Image-17.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/projects/project-01/Image-18.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/projects/project-01/Image-19.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/projects/project-01/Image-20.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/projects/project-01/Image-21.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "public/images/projects/project-01/Image-22.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "public/images/projects/project-01/Image-23.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    },
-  ];
+      {
+          src: '/images/gallery/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-02-2.jpg',
+          alt: 'image',
+          orientation: 'horizontal'
+      },
+      {
+          src: '/images/gallery/img-03-2.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-04-2.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-05-2.jpg',
+          alt: 'image',
+          orientation: 'horizontal'
+      },
+      {
+          src: '/images/gallery/img-06-6.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-07-5.jpg',
+          alt: 'image',
+          orientation: 'horizontal'
+      },
+      {
+          src: '/images/gallery/img-08-4.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-09-3.jpg',
+          alt: 'image',
+          orientation: 'horizontal'
+      },
+      {
+          src: '/images/gallery/img-10-4.jpg',
+          alt: 'image',
+          orientation: 'horizontal'
+      },
+      {
+          src: '/images/gallery/img-11-2.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+      {
+          src: '/images/gallery/img-12-3.jpg',
+          alt: 'image',
+          orientation: 'vertical'
+      },
+     
+  ]
+}
+
 
 export { person, social, newsletter, home, about, blog, work, gallery };
