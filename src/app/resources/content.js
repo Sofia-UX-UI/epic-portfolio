@@ -272,7 +272,7 @@ const gallery = {
           orientation: 'horizontal'
       },
       {
-          src: '/images/gallery/img-10-4.jpg',
+          src: '/images/projects/project-01/Image-24.jpg',
           alt: 'image',
           orientation: 'horizontal'
       },
