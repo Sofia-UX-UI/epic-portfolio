@@ -277,7 +277,7 @@ const gallery = {
           orientation: 'horizontal'
       },
       {
-        src: '/images/projects/project-01/Image-25.webp',
+        src: '/images/projects/project-01/Image-27.webp',
         alt: 'image',
         orientation: 'vertical'
     },
@@ -287,7 +287,7 @@ const gallery = {
         orientation: 'horizontal'
     },
     {
-        src: '/images/projects/project-01/Image-27.webp',
+        src: '/images/projects/project-01/Image-25.webp',
         alt: 'image',
         orientation: 'vertical'
     },
