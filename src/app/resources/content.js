@@ -222,7 +222,7 @@ const work = {
 
 const gallery = {
   label: "Gallery",
-  title: "Wireframing gallery",
+  title: "My photo gallery gallery",
   description: `A wireframes collection selected by ${person.name}`,
   // Images from https://pexels.com
   images: [
