@@ -222,14 +222,14 @@ const work = {
 
 const gallery = {
   label: "Gallery",
-  title: "My photo gallery",
-  description: `A photo collection by ${person.name}`,
+  title: "Wireframing gallery",
+  description: `A wireframes collection selected by ${person.name}`,
   // Images from https://pexels.com
   images: [
     {
-      src: "/images/gallery/img-01.jpg",
+      src: "public/images/projects/project-01/Image-15.jpg",
       alt: "image",
-      orientation: "vertical",
+      orientation: "horizontal", // Image from https://unsplash.com/photos/assorted-color-abstract-painting-tZc3vjPCk-Q
     },
     {
       src: "/images/gallery/img-02.jpg",
