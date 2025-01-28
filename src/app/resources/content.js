@@ -147,7 +147,7 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "Falmouth University - Master in User Experience Design (2023-2025)",
+        name: "Falmouth University - Master's in User Experience Design (2023-2025)",
         description: <>Studied User Experience Design with a major project focused on exploring Design Frameworks for Generative AI.</>,
       },
       {
