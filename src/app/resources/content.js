@@ -224,77 +224,53 @@ const gallery = {
   label: "Gallery",
   title: "My photo gallery gallery",
   description: `A wireframes collection selected by ${person.name}`,
-  // Images from https://pexels.com
+  // Images from https://unsplash.com/photos/assorted-color-abstract-painting-tZc3vjPCk-Q https://unsplash.com/photos/person-writing-on-printing-paper-wusOJ-2uY6w https://unsplash.com/photos/white-paper-_zKxPsGOGKg https://unsplash.com/photos/silver-macbook-air-on-table-near-imac-jJT2r2n7lYA https://unsplash.com/photos/person-writing-on-white-paper-MKDEMlPRoYU https://unsplash.com/photos/person-holding-black-ipad-with-green-plant-dJpupM4LiS4 https://unsplash.com/photos/person-using-black-smartphone-with-pink-case--zFcop_22Xo https://unsplash.com/photos/person-holding-pen-near-paper-sv8oOQaUb-o
   images: [
     {
-      src: "public/images/projects/project-01/Image-15.jpg",
+      src: "/images/projects/project-01/Image-15.jpg",
       alt: "image",
-      orientation: "horizontal", // Image from https://unsplash.com/photos/assorted-color-abstract-painting-tZc3vjPCk-Q
+      orientation: "horizontal", 
     },
     {
-      src: "/images/gallery/img-02.jpg",
+      src: "/images/projects/project-01/Image-16.jpg",
       alt: "image",
-      orientation: "horizontal",
+      orientation: "horizontal", 
     },
     {
-      src: "/images/gallery/img-03.jpg",
+      src: "/images/projects/project-01/Image-17.jpg",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/img-04.jpg",
+      src: "/images/projects/project-01/Image-18.jpg",
       alt: "image",
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/img-05.jpg",
+      src: "/images/projects/project-01/Image-19.jpg",
       alt: "image",
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/img-06.jpg",
+      src: "/images/projects/project-01/Image-20.jpg",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/img-07.jpg",
+      src: "/images/projects/project-01/Image-21.jpg",
       alt: "image",
       orientation: "horizontal",
     },
     {
-      src: "/images/gallery/img-08.jpg",
+      src: "public/images/projects/project-01/Image-22.jpg",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/img-09.jpg",
+      src: "public/images/projects/project-01/Image-23.jpg",
       alt: "image",
       orientation: "horizontal",
     },
-    {
-      src: "/images/gallery/img-10.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-11.jpg",
-      alt: "image",
-      orientation: "vertical",
-    },
-    {
-      src: "/images/gallery/img-12.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-13.jpg",
-      alt: "image",
-      orientation: "horizontal",
-    },
-    {
-      src: "/images/gallery/img-14.jpg",
-      alt: "image",
-      orientation: "horizontal",
     },
   ],
 };
