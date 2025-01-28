@@ -276,6 +276,26 @@ const gallery = {
           alt: 'image',
           orientation: 'horizontal'
       },
+      {
+        src: '/images/projects/project-01/Image-25.webp',
+        alt: 'image',
+        orientation: 'vertical'
+    },
+    {
+        src: '/images/projects/project-01/Image-26.svg',
+        alt: 'image',
+        orientation: 'horizontal'
+    },
+    {
+        src: '/images/projects/project-01/Image-27.webp',
+        alt: 'image',
+        orientation: 'vertical'
+    },
+    {
+        src: '/images/projects/project-01/Image-28.webp',
+        alt: 'image',
+        orientation: 'horizontal'
+    },
 
      
   ]
