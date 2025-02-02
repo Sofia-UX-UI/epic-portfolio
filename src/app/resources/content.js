@@ -132,10 +132,14 @@ const about = {
         role: "Product Designer",
         achievements: [
           <>
-            Product Designer with a focus on Growth, I collaborated with Astropay's Purchase Squad to redesign the 'Add Money' flow.
+            Collaborated with the Purchase squad (PO, PM, iOS, Android, Web devs) to refine and test the ‘Add
+Money’ feature.
           </>,
           <>
-            This initiative aimed to eliminate user pain points, improve task efficiency, and deliver an inclusive solution for diverse users across Europe, Africa, and Latin America.
+            Developed prototypes to streamline user flows, tailoring designs for varied merchant scenarios with tags for easier access.
+          </>,
+          <>
+          Ran usability testing with 300+ users across three regions, analyzing feedback to address pain points.Product Designer with a focus on Growth, I collaborated with Astropay's Purchase Squad to redesign the 'Add Money' flow.
           </>,
         ],
         images: [],
@@ -149,7 +153,7 @@ const about = {
             Developed and taught courses on the end-to-end design process, focusing on Lean UX principles. 
           </>,
           <>
-            Developed and taught courses on the end-to-end design process, focusing on Lean UX principles. 
+            Guided students to create their projects, taking them through each phase from research to high-fidelity design and testing, while collaborating with industry experts to provide real-world feedback and networking opportunities. 
 
           </>,
         ],
