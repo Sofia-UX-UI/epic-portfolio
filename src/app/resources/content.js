@@ -6,7 +6,7 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Product Designer (UI/X)",
+  role: "Product Designer (UX/UI)",
   avatar: "/images/avatar.jpg",
   location: "Europe/London", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Spanish"], // optional: Leave the array empty if you don't want to display languages
@@ -136,6 +136,21 @@ const about = {
           </>,
           <>
             This initiative aimed to eliminate user pain points, improve task efficiency, and deliver an inclusive solution for diverse users across Europe, Africa, and Latin America.
+          </>,
+        ],
+        images: [],
+      },
+      {
+        company: "Universidad de la Empresa",
+        timeframe: "2017 - 2020",
+        role: "Lecturer",
+        achievements: [
+          <>
+            Developed and taught courses on the end-to-end design process, focusing on Lean UX principles. 
+          </>,
+          <>
+            Developed and taught courses on the end-to-end design process, focusing on Lean UX principles. 
+
           </>,
         ],
         images: [],
