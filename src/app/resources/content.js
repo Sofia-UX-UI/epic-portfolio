@@ -195,8 +195,8 @@ Money’ feature.
           {
             src: "/images/projects/project-01/Image-42.png",
             alt: "Project image",
-            width: 16,
-            height: 11,
+            width: 18,
+            height: 9,
           },
         ],
       },
