@@ -202,7 +202,7 @@ Money’ feature.
       },
       {
         title: "Skills",
-        description: <>Extensive experience in UX/UI strategy, leading the redesign of platforms to improve user experience, increase conversions, and strengthen brand identity. Skilled in defining a structured design plan, conducting user research, analyzing data, and translating insights into actionable design solutions. Strong expertise in information architecture, user flow optimization, wireframing, and high-fidelity UI design, ensuring consistency across multi-brand platforms. Adept at accessibility (WCAG) compliance and front-end technologies (HTML, CSS, React) to enhance collaboration with developers. Capable of managing and mentoring, delegating tasks based on skill levels, and fostering a productive team dynamic. Experienced in setting realistic timelines, breaking down deliverables, and implementing structured design workflows to meet business goals efficiently."
+        description: <>Extensive experience in UX/UI strategy, leading the redesign of platforms to improve user experience, increase conversions, and strengthen brand identity. Skilled in defining a structured design plan, conducting user research, analyzing data, and translating insights into actionable design solutions. Strong expertise in information architecture, user flow optimization, wireframing, and high-fidelity UI design, ensuring consistency across multi-brand platforms. Adept at accessibility (WCAG) compliance and front-end technologies (HTML, CSS, React) to enhance collaboration with developers. Capable of managing and mentoring, delegating tasks based on skill levels, and fostering a productive team dynamic. Experienced in setting realistic timelines, breaking down deliverables, and implementing structured design workflows to meet business goals efficiently.
         
         </>,
         // optional: leave the array empty if you don't want to display images
@@ -211,7 +211,7 @@ Money’ feature.
             src: "/images/projects/project-01/Image-44.png",
             alt: "Project image",
             width: 48,
-            height: 8,
+            height: 9,
           },
         ],
       },
