@@ -193,9 +193,9 @@ Money’ feature.
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/Image-41.png",
+            src: "/images/projects/project-01/Image-42.png",
             alt: "Project image",
-            width: 48,
+            width: 16,
             height: 11,
           },
         ],
