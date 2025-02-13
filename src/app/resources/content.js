@@ -251,7 +251,7 @@ const gallery = {
           orientation: 'vertical'
       },
       {
-        src: '/images/projects/project-01/Image-40.jpg',
+        src: '/images/projects/project-01/Image-40.png',
         alt: 'image',
         orientation: 'horizontal'
     },
