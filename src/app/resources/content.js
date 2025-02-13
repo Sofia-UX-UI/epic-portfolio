@@ -188,14 +188,14 @@ Money’ feature.
     title: "Technical skills",
     skills: [
       {
-        title: "Software & Frameworks",
-        description: <>Highly proficient in Figma and the Adobe suite, with experience in Axure, Adobe XD, and InVision, utilizing these tools to establish a clear design vision, create interactive prototypes, and develop scalable design systems. Skilled in managing design workflows within a team, ensuring seamless collaboration with a junior or semi-senior designer through version control and documentation in GitHub, Jira, and Confluence. Experienced in facilitating ideation and planning sessions using Miro and Notion, streamlining research, user flow mapping, and project roadmaps. Strong background in usability testing and validation, leveraging Maze and Marvel to gather user insights and iterate on designs. Comfortable with Visual Studio Code and Proto.io, possessing an intermediate understanding of front-end development to align design decisions with engineering feasibility. Proficient in applying industry-standard design frameworks, such as Atomic Design, Design Thinking, and Lean UX, to create structured, scalable, and user-centered solutions. Able to implement and maintain component-based design systems, ensuring consistency across multi-brand platforms while optimizing efficiency in cross-functional teams.</>,
+        title: "Software",
+        description: <>Highly proficient in Figma and the Adobe suite, with experience in Axure, Adobe XD, and InVision, utilizing these tools to establish a clear design vision, create interactive prototypes, and develop scalable design systems. Skilled in managing design workflows within a team, ensuring collaboration through version control and documentation in GitHub, Jira, and Confluence. Experienced in facilitating ideation and planning sessions using Miro and Notion, streamlining research, user flow mapping, and project roadmaps. Strong background in usability testing and validation. Comfortable with Visual Studio Code and Proto.io, possessing an intermediate understanding of front-end development.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
             src: "/images/projects/project-01/Image-41.png",
             alt: "Project image",
-            width: 32,
+            width: 16,
             height: 9,
           },
         ],
