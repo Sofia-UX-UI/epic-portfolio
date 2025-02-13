@@ -113,7 +113,7 @@ const about = {
       {
         company: "www.urbanmento.com",
         timeframe: "2019 - 2023",
-        role: "Founder & Lead Designer of Kompan Uruguay",
+        role: "Founder & Lead Designer, Kompan Uruguay",
         achievements: [
           <>
             Developed a design system that unified the brand across multiple platforms, improving
@@ -211,7 +211,7 @@ Money’ feature.
             src: "/images/projects/project-01/Image-44.png",
             alt: "Project image",
             width: 48,
-            height: 6,
+            height: 8,
           },
         ],
       },
