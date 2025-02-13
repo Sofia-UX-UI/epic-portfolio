@@ -188,6 +188,32 @@ Money’ feature.
     title: "Technical skills",
     skills: [
       {
+        title: "Software & Frameworks",
+        description: <>Highly proficient in Figma and the Adobe suite, with experience in Axure, Adobe XD, and InVision, utilizing these tools to establish a clear design vision, create interactive prototypes, and develop scalable design systems. Skilled in managing design workflows within a team, ensuring seamless collaboration with a junior or semi-senior designer through version control and documentation in GitHub, Jira, and Confluence. Experienced in facilitating ideation and planning sessions using Miro and Notion, streamlining research, user flow mapping, and project roadmaps. Strong background in usability testing and validation, leveraging Maze and Marvel to gather user insights and iterate on designs. Comfortable with Visual Studio Code and Proto.io, possessing an intermediate understanding of front-end development to align design decisions with engineering feasibility. Proficient in applying industry-standard design frameworks, such as Atomic Design, Design Thinking, and Lean UX, to create structured, scalable, and user-centered solutions. Able to implement and maintain component-based design systems, ensuring consistency across multi-brand platforms while optimizing efficiency in cross-functional teams.</>,
+        // optional: leave the array empty if you don't want to display images
+        images: [
+          {
+            src: "/images/projects/project-01/Image-41.png",
+            alt: "Project image",
+            width: 32,
+            height: 9,
+          },
+        ],
+      },
+      {
+        title: "Skills",
+        description: <>Highly proficient in Figma, able to create interactive prototypes and design systems with exceptional speed and precision. Extensive experience in collaborative design, version control, and building responsive layouts for both web and mobile platforms.</>,
+        // optional: leave the array empty if you don't want to display images
+        images: [
+          {
+            src: "/images/projects/project-01/Image-2.svg",
+            alt: "Project image",
+            width: 32,
+            height: 9,
+          },
+        ],
+      },
+      {
         title: "Figma",
         description: <>Highly proficient in Figma, able to create interactive prototypes and design systems with exceptional speed and precision. Extensive experience in collaborative design, version control, and building responsive layouts for both web and mobile platforms.</>,
         // optional: leave the array empty if you don't want to display images
