@@ -55,7 +55,7 @@ const home = {
   headline: <>Product Designer (UX/UI)</>,
   subline: (
     <>
-      I'm Sofía, a Product Designer at <InlineCode>OICD</InlineCode>, where I thrive on transforming complex workflows<br/> into user-friendly, leading <br/> digital solutions.</>
+      I'm Sofía, a Product Designer that thrives on transforming complex workflows<br/> into user-friendly, leading <br/> digital solutions.</>
 
   ),
 };
