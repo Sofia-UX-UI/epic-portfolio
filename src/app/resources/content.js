@@ -115,35 +115,18 @@ const about = {
       },
       {
         company: "www.urbanmento.com",
-        timeframe: "2019 - 2023",
-        role: "Founder & Lead Designer, Kompan Uruguay",
-        achievements: [
+        timeframe: "Jul 2015 - 2022",
+        role: "Founder & Lead Designer",
+        achievements: [ Founded and led a design practice focused on sustainable urban design, public space systems, and modular architecture.
           <>
-            Developed a design system that unified the brand across multiple platforms, improving
-            design consistency by 40%.
+            Designed and delivered modular public furniture systems across Uruguay.
           </>,
           <>
-            Led a cross-functional team to launch a new product line, contributing to a 15% increase
-            in overall company revenue.
-          </>,
-        ],
-        images: [],
-      },
-      {
-        company: "Astropay",
-        timeframe: "2022",
-        role: "Product Designer",
-        achievements: [
-          <>
-            Collaborated with the Purchase squad (PO, PM, iOS, Android, Web devs) to refine and test the ‘Add
-Money’ feature.
+            Represented Kompan in Uruguay; managed client relationships and local adaptation.
           </>,
           <>
-            Developed prototypes to streamline user flows, tailoring designs for varied merchant scenarios with tags for easier access.
-          </>,
-          <>
-          Ran usability testing with 300+ users across three regions, analyzing feedback to address pain points.Product Designer with a focus on Growth, I collaborated with Astropay's Purchase Squad to redesign the 'Add Money' flow.
-          </>,
+          Secured $250,000+ in innovation funding; received multiple awards for design impact.
+          </>
         ],
         images: [],
       },
@@ -151,14 +134,16 @@ Money’ feature.
         company: "Universidad de la Empresa",
         timeframe: "2017 - 2020",
         role: "Lecturer",
-        achievements: [
+        achievements: [ Delivered undergraduate modules in UX Design, Lean methodologies, and visual communication.
           <>
-            Developed and taught courses on the end-to-end design process, focusing on Lean UX principles. 
+            Created a 45-hour online training course. 
           </>,
           <>
-            Guided students to create their projects, taking them through each phase from research to high-fidelity design and testing, while collaborating with industry experts to provide real-world feedback and networking opportunities. 
-
+            Mentored 20+ students on UX coursework.
           </>,
+          <>
+          Integrated digital tools, improving student satisfaction by 35%.
+          </>
         ],
         images: [],
       },
