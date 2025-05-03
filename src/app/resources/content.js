@@ -72,7 +72,7 @@ const about = {
     display: true,
   },
   calendar: {
-    display: true,
+    display: false,
     link: "https://calendly.com/sofia-orellano-/1-1-sofia-orellano",
   },
   intro: {
