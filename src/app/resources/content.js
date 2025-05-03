@@ -80,7 +80,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        <br/> I'm Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact.
+        <br/> I’ve worked with cross-disciplinary teams in product, policy, and engineering — across Latin America, Europe, and the UK. My process is iterative, inclusive, and insight-driven, shaped by real user needs and impact goals.
       </>
     ),
   },
