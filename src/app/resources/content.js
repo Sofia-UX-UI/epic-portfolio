@@ -51,8 +51,8 @@ const social = [
 const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
-  description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Product Designer (UX/UI)</>,
+  description: `Designing for complexity, clarity, and care ${person.role}`,
+  headline: <> </>,
   subline: (
     <>
       I'm Sofía, a Product Designer that thrives on transforming complex workflows<br/> into user-friendly, leading <br/> digital solutions.</>
