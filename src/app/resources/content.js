@@ -80,7 +80,7 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        <br/>
+        <br/> I'm Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact.
       </>
     ),
   },
