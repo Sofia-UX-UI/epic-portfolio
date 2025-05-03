@@ -106,7 +106,7 @@ const about = {
         images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: "/images/projects/project-01/Image-1-OICD.svg",
+            src: " ",
             alt: "Once UI Project",
             width: 16,
             height: 9,
@@ -160,20 +160,16 @@ const about = {
     title: "Studies",
     institutions: [
       {
-        name: "Falmouth University - Master's in User Experience Design (2023-2025)",
-        description: <>Studied User Experience Design with a major project focused on exploring Design Frameworks for Generative AI.</>,
+        name: "April 2023 - April 2025 - MA User Experience Design. Falmouth University, UK",
+        description: <> </>,
       },
       {
-        name: "Encode Club - Generative AI Bootcamp (2024)",
-        description: <>Recently completed the Generative AI bootcamp, where I gained hands-on experience in leveraging AI technologies to enhance user experiences. The program covered machine learning, neural networks, and AI-driven tools, with a focus on creating innovative solutions that bridge the gap between design and AI.</>,
+        name: "Mar 2017 – Jun 2017 - Postgraduate Certificate – GFRC – Engineering University, Uruguay",
+        description: <> </>,
       },
       {
-        name: "Ironhack Academy - UX/UI Bootcamp (2021)",
-        description: <>Completed an intensive UX/UI bootcamp that focused on both the theoretical and practical aspects of designing for digital platforms. The program covered user research, wireframing, prototyping, and user testing, while also diving deep into creating visually compelling and intuitive user interfaces for mobile and web platforms.</>,
-      },
-      {
-        name: "Universidad de la Empresa - BA in Industrial Design",
-        description: <>Earned a Bachelor's degree in Industrial Design, where I developed a strong foundation in design principles, problem-solving, and prototyping. The program emphasized user-centric design in physical products, providing valuable insights that I now apply to digital product design.</>,
+        name: "Mar 2009 – Dec 2013 - BA in Industrial Design – Universidad de la Empresa, Uruguay",
+        description: <> </>,
       },
     ],
   },
