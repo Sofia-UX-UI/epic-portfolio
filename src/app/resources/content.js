@@ -92,15 +92,15 @@ const about = {
         company: "Freelance Product Designer (UX/UI)",
         timeframe: "Dic 2022 - Present",
         role: " ",
-        achievements: [ Designing and delivering user-centred digital solutions across fintech, civic tech, and AI platforms. Collaborated with cross-functional teams to define UX strategies, lead research, and create responsive, accessible interfaces.
+        achievements: [ <>Designing and delivering user-centred digital solutions across fintech, civic tech, and AI platforms. Collaborated with cross-functional teams to define UX strategies, lead research, and create responsive, accessible interfaces.</>,
 
           <>
-            Astropay – Designed a multilingual onboarding experience for Latin American and African users, boosting task completion by 25%. Conducted user testing with over 350 participants across 3 regions.
+            Astropay: Designed a multilingual onboarding experience for Latin American and African users, boosting task completion by 25%. Conducted user testing with over 350 participants across 3 regions.
           </>,
           <>
-            OICD – Led user research and wireframing for a GenAI conflict-resolution tool. Informed feature roadmap, UX strategy, and freemium model.
+            OICD: Led user research and wireframing for a GenAI conflict-resolution tool. Informed feature roadmap, UX strategy, and freemium model.
           </>,
-          <>MA Research – Developed a UX framework for LLM-based applications through a 6-step iterative process with 45 professionals.
+          <>MA Research: Developed a UX framework for LLM-based applications through a 6-step iterative process with 45 professionals.
 </>
         ],
         images: [
@@ -117,7 +117,10 @@ const about = {
         company: "www.urbanmento.com",
         timeframe: "Jul 2015 - 2022",
         role: "Founder & Lead Designer",
-        achievements: [ Founded and led a design practice focused on sustainable urban design, public space systems, and modular architecture.
+        achievements: [ 
+          <>
+          Founded and led a design practice focused on sustainable urban design, public space systems, and modular architecture.
+          </>
           <>
             Designed and delivered modular public furniture systems across Uruguay.
           </>,
