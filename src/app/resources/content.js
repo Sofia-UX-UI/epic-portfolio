@@ -108,8 +108,8 @@ const about = {
           {
             src: " ",
             alt: "",
-            width: ,
-            height: ,
+            width: 16,
+            height: 9,
           },
         ],
       },
