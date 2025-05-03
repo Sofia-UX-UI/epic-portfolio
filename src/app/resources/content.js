@@ -175,15 +175,16 @@ const about = {
   },
   technical: {
     display: true, // set to false to hide this section
-    title: "Technical skills",
+    title: "Key skills",
     skills: [
       {
-        title: "Software",
-        description: <>Highly proficient in Figma and the Adobe suite, with experience in Axure, Adobe XD, and InVision, utilizing these tools to establish a clear design vision, create interactive prototypes, and develop scalable design systems. Skilled in managing design workflows within a team, ensuring collaboration through version control and documentation in GitHub, Jira, and Confluence. Experienced in facilitating ideation and planning sessions using Miro and Notion, streamlining research, user flow mapping, and project roadmaps. Strong background in usability testing and validation. Comfortable with Visual Studio Code and Proto.io, possessing an intermediate understanding of front-end development.</>,
+        title: "Key skills",
+        description: <>UX Research, Data Interpretation & Usability Testing; Design Systems; Interaction Design; Accessibility (WCAG 2.1); Product Strategy; Agile Collaboration; Design Thinking; Lean UX; Academic Research; Mixed Methods; AI Interface Design.
+</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/Image-43.png",
+            src: " ",
             alt: "Project image",
             width: 48,
             height: 11,
@@ -191,14 +192,12 @@ const about = {
         ],
       },
       {
-        title: "Skills",
-        description: <>Extensive experience in UX/UI strategy, leading the redesign of platforms to improve user experience, increase conversions, and strengthen brand identity. Skilled in defining a structured design plan, conducting user research, analyzing data, and translating insights into actionable design solutions. Strong expertise in information architecture, user flow optimization, wireframing, and high-fidelity UI design, ensuring consistency across multi-brand platforms. Adept at accessibility (WCAG) compliance and front-end technologies (HTML, CSS, React) to enhance collaboration with developers. Capable of managing and mentoring, delegating tasks based on skill levels, and fostering a productive team dynamic. Experienced in setting realistic timelines, breaking down deliverables, and implementing structured design workflows to meet business goals efficiently.
-        
-        </>,
+        title: "Tools",
+        description: <>Figma, FigJam, Notion, Miro, Jira, Maze, Hotjar, Amplitude, Google Analytics, GitHub, HTML/CSS, Adobe Creative Suite, Framer, Webflow (basic) </>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/projects/project-01/Image-44.png",
+            src: " ",
             alt: "Project image",
             width: 48,
             height: 8,
