@@ -106,7 +106,7 @@ const about = {
         images: [
           // optional: leave the array empty if you don't want to display images
           {
-            src: " ",
+            src: "/images/GDO750 (22)-min.jpg",
             alt: "",
             width: 16,
             height: 9,
