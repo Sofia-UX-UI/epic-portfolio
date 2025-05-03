@@ -55,7 +55,7 @@ const home = {
   headline: <> </>,
   subline: (
     <>
-      I'm Sofía, a Product Designer that thrives on transforming complex workflows<br/> into user-friendly, leading <br/> digital solutions.</>
+      I’m Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact. My work spans fintech, civic tech, and generative AI — focused on crafting meaningful user experiences through research, strategy, and systems thinking.</>
 
   ),
 };
