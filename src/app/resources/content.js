@@ -107,9 +107,9 @@ const about = {
           // optional: leave the array empty if you don't want to display images
           {
             src: " ",
-            alt: "Once UI Project",
-            width: 16,
-            height: 9,
+            alt: "",
+            width: ,
+            height: ,
           },
         ],
       },
@@ -201,38 +201,6 @@ const about = {
             alt: "Project image",
             width: 48,
             height: 8,
-          },
-        ],
-      },
-      {
-        title: "Figma",
-        description: <>Highly proficient in Figma, able to create interactive prototypes and design systems with exceptional speed and precision. Extensive experience in collaborative design, version control, and building responsive layouts for both web and mobile platforms.</>,
-        // optional: leave the array empty if you don't want to display images
-        images: [
-          {
-            src: "/images/projects/project-01/Image-2.svg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-          {
-            src: "/images/projects/project-01/Image-3.svg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
-          },
-        ],
-      },
-      {
-        title: "Next.js",
-        description: <>Building next gen apps with Next.js.</>,
-        // optional: leave the array empty if you don't want to display images
-        images: [
-          {
-            src: "/images/projects/project-01/Image-4.svg",
-            alt: "Project image",
-            width: 16,
-            height: 9,
           },
         ],
       },
