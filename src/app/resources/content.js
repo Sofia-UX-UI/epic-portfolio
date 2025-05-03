@@ -55,7 +55,7 @@ const home = {
   headline: <> </>,
   subline: (
     <>
-      I’m Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact. My work spans fintech, civic tech, and generative AI — focused on crafting meaningful user experiences through research, strategy, and systems thinking.</>
+      I'm Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact. My work spans fintech, civic tech, and generative AI — focused on crafting meaningful user experiences through research, strategy, and systems thinking.</>
 
   ),
 };
@@ -120,7 +120,7 @@ const about = {
         achievements: [ 
           <>
           Founded and led a design practice focused on sustainable urban design, public space systems, and modular architecture.
-          </>
+          </>,
           <>
             Designed and delivered modular public furniture systems across Uruguay.
           </>,
@@ -137,7 +137,10 @@ const about = {
         company: "Universidad de la Empresa",
         timeframe: "2017 - 2020",
         role: "Lecturer",
-        achievements: [ Delivered undergraduate modules in UX Design, Lean methodologies, and visual communication.
+        achievements: [ 
+        <>
+        Delivered undergraduate modules in UX Design, Lean methodologies, and visual communication.
+        </>,
           <>
             Created a 45-hour online training course. 
           </>,
