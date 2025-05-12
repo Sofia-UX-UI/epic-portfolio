@@ -182,7 +182,6 @@ const about = {
         description: <>UX Research, Data Interpretation & Usability Testing; Design Systems; Interaction Design; Accessibility (WCAG 2.1); Product Strategy; Agile Collaboration; Design Thinking; Lean UX; Academic Research; Mixed Methods; AI Interface Design.
 </>,
         // optional: leave the array empty if you don't want to display images
-        images: [],
       },
       {
         title: "Tools",
