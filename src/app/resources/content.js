@@ -185,9 +185,9 @@ const about = {
         images: [
           {
             src: " ",
-            alt: "Project image",
-            width: 48,
-            height: 11,
+            alt: 
+            width: 
+            height: 
           },
         ],
       },
