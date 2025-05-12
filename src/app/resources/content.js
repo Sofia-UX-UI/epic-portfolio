@@ -187,7 +187,6 @@ const about = {
         title: "Tools",
         description: <>Figma, FigJam, Notion, Miro, Jira, Maze, Hotjar, Amplitude, Google Analytics, GitHub, HTML/CSS, Adobe Creative Suite, Framer, Webflow (basic) </>,
         // optional: leave the array empty if you don't want to display images
-        images: [],
       },
     ],
   },
