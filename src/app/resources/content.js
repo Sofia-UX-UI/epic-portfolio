@@ -51,8 +51,8 @@ const social = [
 const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
-  description: `Designing for complexity, clarity, and care ${person.role}`,
-  headline: <> Designing for complexity, clarity, and care </>,
+  description: `Designing for complexity, clarity, and impact ${person.role}`,
+  headline: <> Designing for complexity, clarity, and impact </>,
   subline: (
     <>
       I'm Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact. My work spans fintech, civic tech, and generative AI — focused on crafting meaningful user experiences through research, strategy, and systems thinking.</>
