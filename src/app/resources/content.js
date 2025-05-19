@@ -55,7 +55,7 @@ const home = {
   headline: <> Designing for complexity, clarity, and impact </>,
   subline: (
     <>
-      I'm Sofía Orellano, a product designer with 8+ years of experience designing for scale, accessibility, and impact. My work spans fintech, civic tech, and generative AI — focused on crafting meaningful user experiences through research, strategy, and systems thinking.</>
+      I'm Sofía Orellano, a product designer with over 8 years of experience — 5+ of those in UX and digital product design. My work spans fintech, civic tech, and generative AI, crafting meaningful user experiences through research, strategy, and systems thinking.</>
 
   ),
 };
